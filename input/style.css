@@ -1,0 +1,67 @@
+body{background: url(world.jpg);}
+.contact
+{text-align: center;
+color: ghostwhite;
+font-size: 35px;
+padding: 100px;
+}
+.lorem{text-align: center;
+    color: ghostwhite;
+    font-size: 25px;
+    padding: 1px;
+    }
+    input  {
+        width:  200px;
+         height: 10px;
+         padding: 20px;  
+     }
+   
+.input{
+    margin-top: 50px;}
+
+
+ .mesaj input{
+     width: 400px;
+    height: 110px;
+     padding: 80px;}
+
+
+ section{
+     display: flex;
+    justify-content: center;
+    
+    text-align: center;
+    line-height: 55px;
+  
+  }
+
+
+.input {
+    padding: 50px;
+    margin: 60px;}
+
+.knopka{ 
+    text-align: center;
+    padding-bottom: 30px; }
+
+button{font-size: 25px; 
+    color: black;
+    background-color:yellow;
+padding: 10px;
+border: solid 1px;
+ border-radius: 10px;
+}
+
+
+
+.emil{background-color: white;
+
+}
+
+i{font-size: 50px;
+padding: 10px;}
+
+p{font-size: 20px;color: grey;}
+
+
+.emil{display: flex; justify-content: center;    }

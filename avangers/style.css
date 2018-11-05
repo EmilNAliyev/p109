@@ -1,0 +1,57 @@
+body{background-color:rgb(55, 56, 73) }
+
+
+
+
+    div.gallery img {
+        border-radius: 100%;
+padding: 20px;
+    width: 250px;
+    height:250px;
+}
+
+div.desc {
+    
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+i{   
+    
+    
+font-size: 40px;}
+
+.container
+{
+align-items: center;
+background-color:rgb(55, 56, 73) ;
+height: 100%;
+width: 100%;
+justify-content: center;
+display: flex;
+text-align: center;
+align-items: center;
+}
+.word{font-size: 25px;
+    color: aliceblue;
+   
+}
+
+
+
+
+
+.venom{ height: 100px;
+       color: aliceblue;
+ 
+    padding: 120px;
+    height: 100%;
+   
+    justify-content: center;
+    display: flex;
+   
+  }
+  
